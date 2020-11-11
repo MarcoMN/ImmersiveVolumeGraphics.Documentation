@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['fallbackspriteassets_4283',['fallbackSpriteAssets',['../class_t_m_pro_1_1_t_m_p___sprite_asset.html#a417cdcac52c66835dcdb3ef8fdf15b3c',1,'TMPro::TMP_SpriteAsset']]],
-  ['filemetainformation_4284',['FileMetaInformation',['../classopen_dicom_1_1_encoding_1_1_transfer_syntax.html#acbe84b901a6664c332f654b720099520',1,'openDicom::Encoding::TransferSyntax']]],
-  ['flags_4285',['flags',['../class_unity_engine_1_1_timeline_1_1_track_binding_type_attribute.html#a3c71552cf48fa9d80dc5019fd1b7e7e2',1,'UnityEngine::Timeline::TrackBindingTypeAttribute']]],
-  ['fontweights_4286',['fontWeights',['../class_t_m_pro_1_1_t_m_p___font_asset.html#aeb72fbc63143723f81ae69ab7bcafe0a',1,'TMPro::TMP_FontAsset']]]
+  ['g0_4329',['G0',['../classopen_dicom_1_1_encoding_1_1_character_repertoire.html#aa8ad196b7910614646e9ffda4920efb4',1,'openDicom::Encoding::CharacterRepertoire']]],
+  ['g1_4330',['G1',['../classopen_dicom_1_1_encoding_1_1_character_repertoire.html#ab80339a91325c1155e85f9fbf0d38cc5',1,'openDicom::Encoding::CharacterRepertoire']]],
+  ['getdownwards_4331',['getDownwards',['../class_immersive_volume_graphics_1_1_interactions_1_1_v_r_down_button.html#a80fd5cad713fe610f7c6d2a638ca3ad3',1,'ImmersiveVolumeGraphics::Interactions::VRDownButton']]],
+  ['getupwards_4332',['getUpwards',['../class_immersive_volume_graphics_1_1_interactions_1_1_v_r_up_button.html#a1c362803fbe6a68b7f313b4520e7211c',1,'ImmersiveVolumeGraphics::Interactions::VRUpButton']]]
 ];

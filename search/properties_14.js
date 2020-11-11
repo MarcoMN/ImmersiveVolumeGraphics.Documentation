@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['xadvance_4965',['xAdvance',['../struct_t_m_pro_1_1_t_m_p___glyph_value_record.html#a859d79304d5a4d6634dacd1d85e9f12d',1,'TMPro::TMP_GlyphValueRecord']]],
-  ['xplacement_4966',['xPlacement',['../struct_t_m_pro_1_1_t_m_p___glyph_value_record.html#a3a40f296532493204dca739506c0ed40',1,'TMPro::TMP_GlyphValueRecord']]]
+  ['xadvance_5015',['xAdvance',['../struct_t_m_pro_1_1_t_m_p___glyph_value_record.html#a859d79304d5a4d6634dacd1d85e9f12d',1,'TMPro::TMP_GlyphValueRecord']]],
+  ['xplacement_5016',['xPlacement',['../struct_t_m_pro_1_1_t_m_p___glyph_value_record.html#a3a40f296532493204dca739506c0ed40',1,'TMPro::TMP_GlyphValueRecord']]]
 ];

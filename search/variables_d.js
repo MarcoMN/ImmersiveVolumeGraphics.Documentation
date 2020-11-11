@@ -1,12 +1,10 @@
 var searchData=
 [
-  ['particlerandomseed_4366',['particleRandomSeed',['../class_unity_engine_1_1_timeline_1_1_control_playable_asset.html#a65fa63256c73a23905ade5c9d4205b6f',1,'UnityEngine::Timeline::ControlPlayableAsset']]],
-  ['path_4367',['path',['../struct_unity_volume_rendering_1_1_runtime_file_browser_1_1_dialog_result.html#aa38244f9740dfc7f8e147cb72af7ffb5',1,'UnityVolumeRendering.RuntimeFileBrowser.DialogResult.path()'],['../class_immersive_volume_graphics_1_1_model_import_1_1_add_drop_down_items.html#a51d4698119d7b9709faec257cf2bfa9b',1,'ImmersiveVolumeGraphics.ModelImport.AddDropDownItems.path()']]],
-  ['pivot_4368',['pivot',['../class_h_t_c_1_1_unity_plugin_1_1_vive_1_1_teleportable.html#a092cae54876cd0ff4e80909922675373',1,'HTC::UnityPlugin::Vive::Teleportable']]],
-  ['pixeldatatag_4369',['PixelDataTag',['../classopen_dicom_1_1_image_1_1_pixel_data.html#a7519ae40b29889f8725da86e34456936',1,'openDicom::Image::PixelData']]],
-  ['pixelspacingx_4370',['pixelspacingx',['../class_immersive_volume_graphics_1_1_model_import_1_1_d_i_c_o_m_meta_reader.html#a8d7b5ca3d4745299f11a7d2d1196e3ec',1,'ImmersiveVolumeGraphics::ModelImport::DICOMMetaReader']]],
-  ['pixelspacingy_4371',['pixelspacingy',['../class_immersive_volume_graphics_1_1_model_import_1_1_d_i_c_o_m_meta_reader.html#acdef52704f50fafbf1ff853c96166d7a',1,'ImmersiveVolumeGraphics::ModelImport::DICOMMetaReader']]],
-  ['planarconfigurationtag_4372',['PlanarConfigurationTag',['../classopen_dicom_1_1_image_1_1_pixel_data.html#a030ec46dbf33031e8c4cff09dbccea29',1,'openDicom::Image::PixelData']]],
-  ['postplayback_4373',['postPlayback',['../class_unity_engine_1_1_timeline_1_1_control_playable_asset.html#abdcaceb8e33a8eb95095b928ce8d530f',1,'UnityEngine::Timeline::ControlPlayableAsset']]],
-  ['prefabgameobject_4374',['prefabGameObject',['../class_unity_engine_1_1_timeline_1_1_control_playable_asset.html#ab0f9eaf4eea078f2a48131ac3a4e8c6e',1,'UnityEngine::Timeline::ControlPlayableAsset']]]
+  ['recorderbutton_4421',['RecorderButton',['../class_immersive_volume_graphics_1_1_main_menu.html#aa8ee7a2e853f731fc480b81b7e70ae5e',1,'ImmersiveVolumeGraphics::MainMenu']]],
+  ['recorderlabel_4422',['RecorderLabel',['../class_immersive_volume_graphics_1_1_recorder_1_1_voice_recorder.html#a3f845d97846c865a616451340420879f',1,'ImmersiveVolumeGraphics::Recorder::VoiceRecorder']]],
+  ['recorderparent_4423',['RecorderParent',['../class_immersive_volume_graphics_1_1_main_menu.html#a7d0a1303571b83e3fe001c8460c4bff6',1,'ImmersiveVolumeGraphics::MainMenu']]],
+  ['regulator1_4424',['regulator1',['../class_immersive_volume_graphics_1_1_interactions_1_1_v_r_down_button.html#a2e61b7af19156495c9cc2478fde7283c',1,'ImmersiveVolumeGraphics.Interactions.VRDownButton.regulator1()'],['../class_immersive_volume_graphics_1_1_interactions_1_1_v_r_up_button.html#a1fe727e6c4923f2ac41b714ba47e3f95',1,'ImmersiveVolumeGraphics.Interactions.VRUpButton.regulator1()']]],
+  ['regulator2_4425',['regulator2',['../class_immersive_volume_graphics_1_1_interactions_1_1_v_r_down_button.html#a09797b03b69fa0ab7d2fe9c83096277b',1,'ImmersiveVolumeGraphics.Interactions.VRDownButton.regulator2()'],['../class_immersive_volume_graphics_1_1_interactions_1_1_v_r_up_button.html#a48079b3abfc4c579e3e715fdf4a7e41c',1,'ImmersiveVolumeGraphics.Interactions.VRUpButton.regulator2()']]],
+  ['regulator3_4426',['regulator3',['../class_immersive_volume_graphics_1_1_interactions_1_1_v_r_down_button.html#aa21b71e79b08ece11ccb7e6eb74690f7',1,'ImmersiveVolumeGraphics.Interactions.VRDownButton.regulator3()'],['../class_immersive_volume_graphics_1_1_interactions_1_1_v_r_up_button.html#a1a9f45fa2ceb34cb56a78bc6272e46d1',1,'ImmersiveVolumeGraphics.Interactions.VRUpButton.regulator3()']]],
+  ['rowstag_4427',['RowsTag',['../classopen_dicom_1_1_image_1_1_pixel_data.html#a7b5562aecd27dd5e1adc2ec798d8b9f1',1,'openDicom::Image::PixelData']]]
 ];
